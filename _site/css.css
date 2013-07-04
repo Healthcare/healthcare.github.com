@@ -41,7 +41,8 @@ h1 {
   line-height: 42px;
   margin: 0 0 48px 0;
   text-align: center;
-  font-family: Georgia, serif; }
+  font-family: Georgia, serif;
+  padding: 0 24px; }
 
 h2 {
   margin: 0 0 48px 0; }
