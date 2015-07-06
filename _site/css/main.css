@@ -14,7 +14,7 @@ p {
  * Basic styling
  */
 body {
-  font-family: "ff-tisa-web-pro", serif;
+  font-family: "TiemposTextRegular", serif;
   font-size: 1.6em;
   line-height: 1.5;
   font-weight: 300;
@@ -37,6 +37,9 @@ ul, ol, dl, figure,
 img {
   max-width: 100%;
   vertical-align: middle; }
+
+em, italic, i {
+  font-family: 'TiemposTextRegularItalic'; }
 
 /**
  * Figures

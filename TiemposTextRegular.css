@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TiemposTextRegular';
+    src: url('fonts/TiemposTextRegular.eot');
+    src: url('fonts/TiemposTextRegular.eot') format('embedded-opentype'),
+         url('fonts/TiemposTextRegular.woff2') format('woff2'),
+         url('fonts/TiemposTextRegular.woff') format('woff'),
+         url('fonts/TiemposTextRegular.ttf') format('truetype'),
+         url('fonts/TiemposTextRegular.svg#TiemposTextRegular') format('svg');
+}
