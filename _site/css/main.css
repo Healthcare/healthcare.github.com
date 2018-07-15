@@ -74,9 +74,9 @@ a {
   text-decoration: none;
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 93%, red 93%); }
   a:hover {
-    color: blue;
+    color: #ffb811;
     text-decoration: none;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 93%, blue 93%); }
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 93%, #ffb811 93%); }
 
 /**
  * Blockquotes
