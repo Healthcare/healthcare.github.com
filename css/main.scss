@@ -7,15 +7,15 @@
 
 // Our variables
 $base-font-family: "TiemposTextRegular",serif;
-$base-font-size:   1.4em;
+$base-font-size:   1.6em;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.4;
 
 $spacing-unit:     60px;
 
-$text-color:       #ff9797;
-$background-color: #283c3a;
-$brand-color:      #ff9797;
+$text-color:       #000;
+$background-color: #F1F1F1;
+$brand-color:      #000;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
